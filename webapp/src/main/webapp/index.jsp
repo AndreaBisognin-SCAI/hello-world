@@ -1,2 +1,9 @@
-    <h1>Hi from me</h1>
-    <h1>There</h1>
+<html>
+  <form>
+    <label for="fname">First name:</label><br />
+    <input type="text" id="fname" name="fname" /><br />
+    <label for="lname">Last name:</label><br />
+    <input type="text" id="lname" name="lname" />
+  </form>
+  <br/>
+</html>
